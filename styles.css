@@ -1,0 +1,157 @@
+* {
+    margin: 40px;
+}
+img {
+    position: relative;
+    right: 100px;
+    bottom: 100px;
+}
+div {
+    font-size: 50px;
+    color: white;
+    padding: 10px;
+    text-align: left;
+    vertical-align: top;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}   
+.index {
+    border: solid 2px;
+    border-color: red;
+    background-color: lightgrey;
+    color: white;
+    text-decoration: none;  
+    border-radius: 25px;
+    padding: 6px;
+}
+.routines {
+    border: solid 2px;
+    border-color: red;
+    background-color: lightgrey;
+    color: white;
+    text-decoration: none;
+    border-radius: 25px;
+    padding: 6px;
+}
+.exercises {
+    border: solid 2px;
+    border-color: red;
+    background-color: lightgrey;
+    color: white;
+    text-decoration: none;
+    border-radius: 25px;
+    padding: 6px;
+}
+.about {
+    border: solid 2px;
+    border-color: red;
+    background-color: lightgrey;
+    color: white;
+    text-decoration: none;
+    border-radius: 25px;
+    padding: 6px;
+}
+.topnav {
+    position: relative;
+    left: 200px;
+    bottom: 350px;
+    padding: 6px;
+    background-color: rgb(180, 167, 167);
+    width: 1100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 25px;
+    padding-left: 20px;
+}
+.topnav a:hover {
+    background-color: darkgrey;
+}
+h1 {
+    border: solid black 2px;
+    position: relative;
+    bottom: 250px;
+    right: 50px;
+    font-size: 55px;
+    height: 180px;
+    width: 665px;
+    background-color: lightgrey;
+    margin-left: 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-bottom-right-radius: 25px;
+    border-top-left-radius: 25px;
+}
+.workingout {
+    color: red;
+}
+.howtostart {
+    color: white;
+}
+.vline {
+    border: 2px solid rgb(63, 62, 62);
+    margin: 0px;
+    margin-bottom: 50px;
+    height: 300px;
+    position: relative;
+    bottom: 265px;
+}
+.titleimage {
+    display: flex;
+    position: relative;
+  }
+.pullupimg {
+    left: 40px;
+    bottom: 300px;
+    width: 520px;
+    border: solid red 3px;
+    border-radius: 25px;
+}
+.p1 {
+    border: solid 3px darkgrey;
+    width: 600px;
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    left: 750px;
+    border-top-right-radius: 25px;
+    padding: 6px;
+    bottom: 150px;
+    position: relative;
+}
+.anxiety {
+    width: 665px;
+    position: relative;
+    bottom: 500px;
+    left: 20px;
+    border-radius: 25px;
+    border: solid red 3px;
+}
+.motivation {
+    width: 665px;
+    border-radius: 25px;
+    border: solid red 3px;
+    left: 700px;
+    bottom: 700px;
+    position: relative;
+}
+.p2 {
+    border: solid 3px darkgrey;
+    width: 600px;
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    left: 20px;
+    border-top-left-radius: 25px;
+    padding: 6px;
+    position: relative;
+    bottom: 300px;
+}
+.hline {
+    border: 2px solid rgb(63, 62, 62);
+    position: relative;
+    width: 1400px;
+    margin-left: 0px;
+    bottom: 400px;
+}
+nav {
+    position: sticky;
+    top: 0;
+    z-index: 2; 
+}
+
